@@ -12,7 +12,6 @@ ser.flushInput()
 #..........................................................
 #  ENVIA SMS
 #..........................................................
-ser = serial.Serial('/dev/ttyUSB3', 9600)
 ser.write('at\r'),                           time.sleep(2)
 ser.write('at\r'),                           time.sleep(2)
 ser.write('at\r'),                           time.sleep(2)    
