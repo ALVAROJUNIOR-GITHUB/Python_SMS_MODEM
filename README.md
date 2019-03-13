@@ -3,4 +3,4 @@
  
 OBSERVAÇÃO:
 
-Fazer download pasta "serial" pois a mesma será importada pelo programa ("import serial"). Salvar a mesma junto ao projeto principal.
+Fazer download da pasta "serial" pois a mesma será importada pelo script/programa, com o comando 'import serial'. Salvar a mesma junto ao projeto principal.
